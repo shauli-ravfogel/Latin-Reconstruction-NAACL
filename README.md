@@ -1,6 +1,6 @@
 # Latin-Reconstruction-NAACL
 
-A Romance cognate dataset described in the paper "Ab Antiquo: Neural Proto-language Reconstruction" (accepted in NACL 2021).
+A Romance cognate dataset described in the paper "[Ab Antiquo: Neural Proto-language Reconstruction](https://arxiv.org/pdf/1908.02477.pdf)" (accepted in NACL 2021).
 
 The dataset was automatically transcribed to IPA, and contains Latin vowel lengths.
 
